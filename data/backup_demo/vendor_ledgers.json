@@ -1,0 +1,120 @@
+{
+    "ven_hafeez": [
+        {
+            "id": "vtx_hf_1",
+            "date": "2026-08-01 10:00:00",
+            "description": "Opening Balance (Purana Supplier Dena)",
+            "debit": 0,
+            "credit": 150000,
+            "balance": 150000,
+            "ref": "OPN-VEN-01"
+        },
+        {
+            "id": "vtx_hf_2",
+            "date": "2026-08-12 15:30:00",
+            "description": "Lot Shipment Received (50 OLED Displays)",
+            "debit": 0,
+            "credit": 330000,
+            "balance": 480000,
+            "ref": "SUP-INV-8891"
+        },
+        {
+            "id": "vtx_hf_3",
+            "date": "2026-08-25 17:00:00",
+            "description": "Bank Payment Transferred (HBL Raast)",
+            "debit": 100000,
+            "credit": 0,
+            "balance": 380000,
+            "ref": "TRX-HBL-9921"
+        }
+    ],
+    "ven_pakchina": [
+        {
+            "id": "vtx_pc_1",
+            "date": "2026-08-05 11:00:00",
+            "description": "Shipment of 80 iPhone & Samsung Batteries",
+            "debit": 0,
+            "credit": 225000,
+            "balance": 225000,
+            "ref": "SUP-INV-4412"
+        },
+        {
+            "id": "vtx_pc_2",
+            "date": "2026-08-20 16:30:00",
+            "description": "Cash Paid to Delivery Rider",
+            "debit": 50000,
+            "credit": 0,
+            "balance": 175000,
+            "ref": "RCPT-V-331"
+        }
+    ],
+    "ven_kingacc": [
+        {
+            "id": "vtx_kg_1",
+            "date": "2026-08-10 14:00:00",
+            "description": "Fast Cables & Chargers Bulk Order",
+            "debit": 0,
+            "credit": 142000,
+            "balance": 142000,
+            "ref": "SUP-INV-6610"
+        },
+        {
+            "id": "vtx_kg_2",
+            "date": "2026-08-28 17:00:00",
+            "description": "Meezan Bank Online Transfer",
+            "debit": 50000,
+            "credit": 0,
+            "balance": 92000,
+            "ref": "TRX-MEZN-5519"
+        }
+    ],
+    "ven_zubair": [
+        {
+            "id": "vtx_zb_1",
+            "date": "2026-08-08 12:00:00",
+            "description": "Heating Separator Machine & Soldering Tools",
+            "debit": 0,
+            "credit": 65000,
+            "balance": 65000,
+            "ref": "SUP-INV-1102"
+        },
+        {
+            "id": "vtx_zb_2",
+            "date": "2026-08-15 15:00:00",
+            "description": "Full Cash Settlement",
+            "debit": 65000,
+            "credit": 0,
+            "balance": 0,
+            "ref": "RCPT-V-991"
+        }
+    ],
+    "ven_sialkot_421": [
+        {
+            "id": "vtx_6a9fe5428b8f4",
+            "date": "2026-09-08 12:36:50",
+            "description": "Opening Balance (Initial Supplier Payable)",
+            "debit": 0,
+            "credit": 25000,
+            "balance": 50000,
+            "ref": "OPN"
+        },
+        {
+            "id": "vtx_6a9fe54600f8e",
+            "date": "2026-09-08 12:36:54",
+            "description": "Goods \/ Stock Received from Supplier",
+            "debit": 0,
+            "credit": 10000,
+            "balance": 60000,
+            "ref": "CASH-PAY-01"
+        },
+        {
+            "id": "vtx_6a9fe56a1f191",
+            "date": "2026-09-08 12:37:30",
+            "description": "Bank payment through Meezan Bank",
+            "debit": 15000,
+            "credit": 0,
+            "balance": 45000,
+            "ref": "MEEZAN-991"
+        }
+    ]
+}

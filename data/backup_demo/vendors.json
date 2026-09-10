@@ -1,0 +1,52 @@
+{
+    "ven_hafeez": {
+        "id": "ven_hafeez",
+        "name": "Hafeez LCD Importers",
+        "contact": "Mian Hafeez",
+        "phone": "0300-8484848",
+        "city": "Hall Road, Lahore",
+        "category": "Panels \/ OLED Screens",
+        "balance": 380000,
+        "limit": 1000000
+    },
+    "ven_pakchina": {
+        "id": "ven_pakchina",
+        "name": "Pak China Battery Hub",
+        "contact": "Asif Chen",
+        "phone": "0321-2233445",
+        "city": "Saddar, Karachi",
+        "category": "Original Mobile Batteries",
+        "balance": 175000,
+        "limit": 500000
+    },
+    "ven_kingacc": {
+        "id": "ven_kingacc",
+        "name": "King Accessories Wholesale",
+        "contact": "Malik Imran",
+        "phone": "0333-5566778",
+        "city": "Imperial Market, Rawalpindi",
+        "category": "Fast Chargers & Cables",
+        "balance": 92000,
+        "limit": 300000
+    },
+    "ven_zubair": {
+        "id": "ven_zubair",
+        "name": "Zubair Tools & Supplies",
+        "contact": "Zubair Ahmad",
+        "phone": "0345-6677889",
+        "city": "Shah Alam Market, Lahore",
+        "category": "Repair Machinery & OCA",
+        "balance": 0,
+        "limit": 200000
+    },
+    "ven_sialkot_421": {
+        "id": "ven_sialkot_421",
+        "name": "Sialkot Glass Protectors",
+        "contact": "Imran Sialkoti",
+        "phone": "0321-9988776",
+        "city": "Sialkot",
+        "category": "Glass \/ Protectors",
+        "balance": 45000,
+        "limit": 300000
+    }
+}

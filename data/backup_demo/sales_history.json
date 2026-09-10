@@ -1,0 +1,98 @@
+[
+    {
+        "invoice_no": "INV-20260908-4666",
+        "timestamp": "2026-09-08 12:28:54",
+        "customer_name": "Ali Electronics",
+        "customer_phone": "",
+        "customer_type": "wholesale",
+        "payment_method": "credit",
+        "amount_paid": 0,
+        "change_returned": 0,
+        "bank_account": "",
+        "transaction_ref": "",
+        "subtotal": 10000,
+        "discount": 0,
+        "total_payable": 10000,
+        "items": [
+            {
+                "unit_price": 2800,
+                "line_total": 5600,
+                "name": "Samsung A12 OLED Panel",
+                "qty": 2,
+                "sku": "DISP-SAM-A12"
+            },
+            {
+                "unit_price": 1650,
+                "line_total": 3300,
+                "name": "Samsung 25W Fast Adapter",
+                "qty": 2,
+                "sku": "CHG-SAM-25W"
+            }
+        ],
+        "notes": ""
+    },
+    {
+        "invoice_no": "INV-20260908-1474",
+        "timestamp": "2026-09-08 12:23:02",
+        "customer_name": "Customer: Walk-in Retail",
+        "customer_phone": "",
+        "customer_type": "retail",
+        "payment_method": "cash",
+        "amount_paid": 11450,
+        "change_returned": 0,
+        "bank_account": "",
+        "transaction_ref": "",
+        "subtotal": 11450,
+        "discount": 0,
+        "total_payable": 11450,
+        "items": [
+            {
+                "sku": "BAT-IPH-11",
+                "name": "iPhone 11 Original Battery",
+                "qty": 2,
+                "unit_price": 4200,
+                "line_total": 8400
+            },
+            {
+                "sku": "ACC-CAB-65W",
+                "name": "Type-C Fast Charging Cable 65W",
+                "qty": 1,
+                "unit_price": 850,
+                "line_total": 850
+            },
+            {
+                "sku": "CHG-SAM-25W",
+                "name": "Samsung 25W Fast Adapter",
+                "qty": 1,
+                "unit_price": 2200,
+                "line_total": 2200
+            }
+        ],
+        "notes": ""
+    },
+    {
+        "invoice_no": "INV-20260908-3932",
+        "timestamp": "2026-09-08 12:20:35",
+        "customer_name": "Test Customer Walkin",
+        "customer_phone": "",
+        "customer_type": "retail",
+        "payment_method": "cash",
+        "amount_paid": 4000,
+        "change_returned": 500,
+        "bank_account": "",
+        "transaction_ref": "",
+        "subtotal": 3600,
+        "discount": 100,
+        "total_payable": 3500,
+        "items": [
+            {
+                "unit_price": 1800,
+                "line_total": 3600,
+                "name": "Test Flash Charger 45W",
+                "qty": 2,
+                "sku": "CHG-FLASH-45"
+            }
+        ],
+        "notes": ""
+    }
+]

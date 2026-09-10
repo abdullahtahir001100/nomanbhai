@@ -1,0 +1,127 @@
+{
+    "cli_khan": [
+        {
+            "id": "tx_khn_1",
+            "description": "Invoice #INV-2026-021 (Accessories Lot)",
+            "credit": 0,
+            "date": "2026-08-05 12:00:00",
+            "debit": 45000,
+            "balance": 45000,
+            "ref": "INV-2026-021"
+        },
+        {
+            "id": "tx_khn_2",
+            "description": "Full Cash Settlement",
+            "credit": 45000,
+            "date": "2026-08-18 16:00:00",
+            "debit": 0,
+            "balance": 0,
+            "ref": "RCPT-914"
+        }
+    ],
+    "cli_raza": [
+        {
+            "id": "tx_rz_1",
+            "description": "Opening Balance",
+            "credit": 0,
+            "date": "2026-08-01 10:00:00",
+            "debit": 110000,
+            "balance": 110000,
+            "ref": "OPN-03"
+        },
+        {
+            "id": "tx_rz_2",
+            "description": "Invoice #INV-2026-015 (30 Displays & Accessories)",
+            "credit": 0,
+            "date": "2026-08-14 14:00:00",
+            "debit": 150000,
+            "balance": 260000,
+            "ref": "INV-2026-015"
+        },
+        {
+            "id": "tx_rz_3",
+            "description": "Cash Payment Received",
+            "credit": 50000,
+            "date": "2026-08-24 18:00:00",
+            "debit": 0,
+            "balance": 210000,
+            "ref": "RCPT-988"
+        }
+    ],
+    "cli_usman": [
+        {
+            "id": "tx_usm_1",
+            "description": "Opening Balance",
+            "credit": 0,
+            "date": "2026-08-10 11:00:00",
+            "debit": 20000,
+            "balance": 20000,
+            "ref": "OPN-02"
+        },
+        {
+            "id": "tx_usm_2",
+            "description": "Invoice #INV-2026-068 (15 Batteries & 10 Chargers)",
+            "credit": 0,
+            "date": "2026-08-20 15:10:00",
+            "debit": 52000,
+            "balance": 72000,
+            "ref": "INV-2026-068"
+        },
+        {
+            "id": "tx_usm_3",
+            "description": "Meezan Bank Online Transfer",
+            "credit": 10000,
+            "date": "2026-08-30 17:30:00",
+            "debit": 0,
+            "balance": 62000,
+            "ref": "TRX-MEZN-9912"
+        }
+    ],
+    "cli_ali": [
+        {
+            "id": "tx_ali_1",
+            "description": "Opening Balance (Purana Udhaar)",
+            "credit": 0,
+            "date": "2026-08-01 10:30:00",
+            "debit": 50000,
+            "balance": 50000,
+            "ref": "OPN-01"
+        },
+        {
+            "id": "tx_ali_2",
+            "description": "Invoice #INV-2026-042 (20 OLED Panels & 10 Cables)",
+            "credit": 0,
+            "date": "2026-08-15 14:20:00",
+            "debit": 145000,
+            "balance": 195000,
+            "ref": "INV-2026-042"
+        },
+        {
+            "id": "tx_ali_3",
+            "description": "Cash Payment Received (Receipt #882)",
+            "credit": 50000,
+            "date": "2026-08-25 16:45:00",
+            "debit": 0,
+            "balance": 145000,
+            "ref": "RCPT-882"
+        },
+        {
+            "id": "tx_6a9fe366cd136",
+            "date": "2026-09-08 12:28:54",
+            "description": "POS Counter Sale (Invoice #INV-20260908-4666)",
+            "debit": 10000,
+            "credit": 0,
+            "balance": 155000,
+            "ref": "INV-20260908-4666"
+        },
+        {
+            "id": "tx_6a9fe366e676c",
+            "date": "2026-09-08 12:28:54",
+            "description": "Payment Received (Cash): Immediate cash settlement",
+            "debit": 0,
+            "credit": 10000,
+            "balance": 145000,
+            "ref": "RCPT-611"
+        }
+    ]
+}

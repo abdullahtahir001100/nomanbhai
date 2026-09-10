@@ -1,0 +1,42 @@
+{
+    "cli_khan": {
+        "balance": 0,
+        "owner": "Kamran Khan",
+        "id": "cli_khan",
+        "name": "Khan Mobile Zone",
+        "type": "wholesale",
+        "phone": "0345-5554433",
+        "city": "Karkhano, Peshawar",
+        "limit": 200000
+    },
+    "cli_raza": {
+        "balance": 210000,
+        "owner": "Raza Shah",
+        "id": "cli_raza",
+        "name": "Raza Telecom",
+        "type": "wholesale",
+        "phone": "0333-1122334",
+        "city": "Ghanta Ghar, Faisalabad",
+        "limit": 400000
+    },
+    "cli_usman": {
+        "balance": 62000,
+        "owner": "Usman Ghani",
+        "id": "cli_usman",
+        "name": "Usman Mobile Shop",
+        "type": "wholesale",
+        "phone": "0321-9876543",
+        "city": "Saddar, Karachi",
+        "limit": 300000
+    },
+    "cli_ali": {
+        "balance": 145000,
+        "owner": "Muhammad Ali",
+        "id": "cli_ali",
+        "name": "Ali Electronics",
+        "type": "wholesale",
+        "phone": "0300-1234567",
+        "city": "Hall Road, Lahore",
+        "limit": 500000
+    }
+}
