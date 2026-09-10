@@ -1,3 +1,4 @@
+
 <?php
 // includes/config.php - Central Database & System Configuration for Smart Mobile ERP
 
@@ -5,29 +6,19 @@
  * =========================================================================
  * DATABASE CONFIGURATION
  * =========================================================================
- * For Localhost (XAMPP):
- *   DB_HOST: localhost
- *   DB_USER: root
- *   DB_PASS: ''
- *   DB_NAME: smartmobile_erp
- * 
- * For Live Hosting (cPanel / DirectAdmin / VPS):
- *   Update with your cPanel Database Name, User, and Password:
- *   e.g. DB_USER: 'smartmob_user'
- *        DB_PASS: 'YourLivePassword123'
- *        DB_NAME: 'smartmob_erp'
+ * Stackhero MySQL
  */
 
-define('DB_HOST', getenv('DB_HOST') ?: 'localhost');
-define('DB_NAME', getenv('DB_NAME') ?: 'smartmobile_erp');
-define('DB_USER', getenv('DB_USER') ?: 'root');
-define('DB_PASS', getenv('DB_PASS') !== false ? getenv('DB_PASS') : '');
-define('DB_PORT', getenv('DB_PORT') ?: '3306');
+define('DB_HOST', '4qjhqi.stackhero-network.com');
+define('DB_NAME', 'root');
+define('DB_USER', 'root');
+define('DB_PASS', 'ZgCJr0Kr0almVBYmM3WhjMjCaDxeZNM4');
+define('DB_PORT', '4751');
 define('DB_CHARSET', 'utf8mb4');
 
 // Application Environment
 define('APP_NAME', 'Smart Mobile ERP');
-define('APP_ENV', getenv('APP_ENV') ?: 'development'); // 'development' or 'production'
+define('APP_ENV', 'development');
 
 // Error Reporting Configuration
 if (APP_ENV === 'production') {
