@@ -1,0 +1,42 @@
+[
+    {
+        "id": "exp_6a9fe77396bd9",
+        "date": "2026-09-08 12:46:11",
+        "title": "Customer Cold Drinks & Biscuits",
+        "category": "Entertainment \/ Food",
+        "category_badge": "bg-secondary",
+        "amount": 350,
+        "payment_mode": "Cash Drawer",
+        "recorded_by": "Administrator"
+    },
+    {
+        "id": "exp_1",
+        "date": "2026-09-08 11:30:00",
+        "title": "Chai & Refreshment for Clients",
+        "category": "Entertainment \/ Food",
+        "category_badge": "bg-secondary",
+        "amount": 800,
+        "payment_mode": "Cash Drawer",
+        "recorded_by": "Staff"
+    },
+    {
+        "id": "exp_2",
+        "date": "2026-09-08 13:15:00",
+        "title": "Shop Electricity & UPS Generator Fuel",
+        "category": "Utilities (Electricity\/Net)",
+        "category_badge": "bg-warning text-dark",
+        "amount": 2200,
+        "payment_mode": "Cash Drawer",
+        "recorded_by": "Admin"
+    },
+    {
+        "id": "exp_3",
+        "date": "2026-09-08 15:40:00",
+        "title": "Rikshaw Cargo Freight charges",
+        "category": "Transport \/ Cargo",
+        "category_badge": "bg-info text-dark",
+        "amount": 500,
+        "payment_mode": "Cash Drawer",
+        "recorded_by": "Staff"
+    }
+]

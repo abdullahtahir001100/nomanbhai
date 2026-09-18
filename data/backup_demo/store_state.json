@@ -1,0 +1,100 @@
+{
+    "today_sales": 169950,
+    "stock_in_today": 235,
+    "stock_out_today": 100,
+    "daily_closing_status": "Pending",
+    "last_updated": "2026-09-08 14:07:05",
+    "opening_cash": 15000,
+    "products": {
+        "DISP-SAM-A12": {
+            "sku": "DISP-SAM-A12",
+            "name": "Samsung A12 OLED Display Panel",
+            "category": "Panels",
+            "category_badge": "bg-secondary",
+            "stock": 24,
+            "cost_price": 2200,
+            "wholesale_price": 2800,
+            "retail_price": 3500
+        },
+        "BAT-IPH-11": {
+            "sku": "BAT-IPH-11",
+            "name": "iPhone 11 Original Battery",
+            "category": "Batteries",
+            "category_badge": "bg-info text-dark",
+            "stock": 36,
+            "cost_price": 2720,
+            "wholesale_price": 3400,
+            "retail_price": 4200
+        },
+        "ACC-CAB-65W": {
+            "sku": "ACC-CAB-65W",
+            "name": "Type-C Fast Charging Cable 65W",
+            "category": "Accessories",
+            "category_badge": "bg-warning text-dark",
+            "stock": 7,
+            "cost_price": 380,
+            "wholesale_price": 520,
+            "retail_price": 850
+        },
+        "CHG-SAM-25W": {
+            "sku": "CHG-SAM-25W",
+            "name": "Samsung 25W Fast Adapter",
+            "category": "Chargers",
+            "category_badge": "bg-primary",
+            "stock": 31,
+            "cost_price": 1300,
+            "wholesale_price": 1650,
+            "retail_price": 2200
+        },
+        "DISP-IPH-X": {
+            "sku": "DISP-IPH-X",
+            "name": "iPhone X OLED GX Display Panel",
+            "category": "Panels",
+            "category_badge": "bg-secondary",
+            "stock": 14,
+            "cost_price": 3800,
+            "wholesale_price": 4600,
+            "retail_price": 5800
+        },
+        "ACC-AIRP-PRO": {
+            "sku": "ACC-AIRP-PRO",
+            "name": "AirPods Pro ANC Wireless Earbuds",
+            "category": "Accessories",
+            "category_badge": "bg-dark",
+            "stock": 18,
+            "cost_price": 2500,
+            "wholesale_price": 3200,
+            "retail_price": 4500
+        },
+        "DISP-XIA-RN10P": {
+            "sku": "DISP-XIA-RN10P",
+            "name": "Redmi Note 10 Pro Glass \/ Touch Panel",
+            "category": "Panels",
+            "category_badge": "bg-secondary",
+            "stock": 9,
+            "cost_price": 1100,
+            "wholesale_price": 1500,
+            "retail_price": 2100
+        },
+        "CHG-FLASH-45": {
+            "sku": "CHG-FLASH-45",
+            "name": "Test Flash Charger 45W VOOC \/ SuperDart",
+            "category": "Chargers",
+            "category_badge": "bg-primary",
+            "stock": 25,
+            "cost_price": 1200,
+            "wholesale_price": 1600,
+            "retail_price": 2200
+        },
+        "ACC-GLAS-9D": {
+            "sku": "ACC-GLAS-9D",
+            "name": "9D Matte Screen Protector (Box of 25)",
+            "category": "Accessories",
+            "category_badge": "bg-warning text-dark",
+            "stock": 40,
+            "cost_price": 900,
+            "wholesale_price": 1250,
+            "retail_price": 1800
+        }
+    }
+}

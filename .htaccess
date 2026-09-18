@@ -1,0 +1,24 @@
+# Smart Mobile ERP - Production Apache Configuration
+# Disable Directory Listing
+Options -Indexes
+
+# Default Charset
+AddDefaultCharset UTF-8
+
+# Protect Sensitive Files
+<FilesMatch "(^\.|\.(sql|json|bak|config|log|md|sh|lock))$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order deny,allow
+        Deny from all
+    </IfModule>
+</FilesMatch>
+
+# Allow access to robots and web fonts/assets
+<FilesMatch "\.(css|js|png|jpg|jpeg|gif|svg|woff|woff2|ttf|eot)$">
+    <IfModule mod_authz_core.c>
+        Require all granted
+    </IfModule>
+</FilesMatch>
